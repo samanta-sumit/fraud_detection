@@ -1,6 +1,6 @@
 # fraud_detection
 
-step1) is to download the fraud dataset and the problem u r going to solve 
+step1) is to download the fraud dataset and the problem u r going to solve
 step 2) after downloading the dataset u need preprocess the data as by removing duplicates ,addressing missing values ,identifying outliers and deciding weather to keep them for further use or not ,converting catgorical values into numerical values 
 step3) now u need to undestand the data and do some analysis ,u can start with eda and knw all the basic discriptive  analysis
 step4)to understand pattern,to chedck if there is any multicolinearity between features if there is then creat new features
